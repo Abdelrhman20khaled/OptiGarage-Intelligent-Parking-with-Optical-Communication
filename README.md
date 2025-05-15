@@ -52,8 +52,6 @@ This project is designed to help students and hobbyists:
 - Ahmed Mossad Soliman  
 - Mohamed Ali Soliman  
 
-**Supervisor**: Dr. Moataz Elsherbiny
-
 ---
 
 > For more information or setup instructions, refer to the user guide provided with the project.
